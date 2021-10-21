@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\flutter_jitsi_maven\\com"
+		},
+		{
+			"path": "..\\flutter_jitsi_maven\\org"
+		}
+	],
+	"settings": {}
+}
